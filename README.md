@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there, Shubham here ! 👋
+[![linkedin badge](https://img.shields.io/badge/Shubham-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubham-rawat-63958416a)
+[![twitter badge](https://img.shields.io/badge/@Shubhammrawatt-30302f?style=flat&logo=twitter)](https://twitter.com/Shubhammrawatt)
+[![telegram badge](https://img.shields.io/badge/Krypton-30302f?style=flat&logo=telegram)](https://t.me/kryptonPVX)
+[![instagram badge](https://img.shields.io/badge/@shubhamraw.exe-30302f?style=flat&logo=instagram)](https://instagram.com/shubhamraw.exe)
 
 <!--
 **Shubhamrawat5/Shubhamrawat5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
