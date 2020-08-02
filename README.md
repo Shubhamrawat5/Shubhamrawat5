@@ -4,7 +4,7 @@ I'm a 4th year CSE student.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubhamrawat5&label=Views&color=blue&style=plastic" alt="Shubhamrawat5" /> </p>
 
-### Contacts
+### Contacts:
 [![linkedin badge](https://img.shields.io/badge/Shubham-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubham-rawat-63958416a)
 [![twitter badge](https://img.shields.io/badge/@Shubhammrawatt-30302f?style=flat&logo=twitter)](https://twitter.com/Shubhammrawatt)
 [![telegram badge](https://img.shields.io/badge/Krypton-30302f?style=flat&logo=telegram)](https://t.me/kryptonPVX)
@@ -25,13 +25,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Languages:**  
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=Shubhamrawat5&theme=tokyonight)
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
+
+### Languages:
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+
 
 
 <a href="https://github.com/Shubhamrawat5">
@@ -39,7 +44,7 @@ Here are some ideas to get you started:
 </a>
 
 
-
 <a href="https://github.com/Shubhamrawat5/TeleNews">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhamrawat5&repo=TeleNews&theme=dark" />
 </a>
+
