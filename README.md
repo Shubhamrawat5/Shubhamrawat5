@@ -1,4 +1,5 @@
 ## Hey there, Shubham here ! 👋
+I'm a 4th year CSE student.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubhamrawat5&label=Views&color=blue&style=plastic" alt="Shubhamrawat5" /> </p>
@@ -35,4 +36,10 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/rohitjakhar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamrawat5&theme=dark&hide_langs_below=1" />
+</a>
+
+
+
+<a href="https://github.com/Shubhamrawat5/stopwatch_kotlin">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhamrawat5&repo=TeleNews&theme=dark" />
 </a>
