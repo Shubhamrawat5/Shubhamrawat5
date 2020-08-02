@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://github.com/Shubhamrawat5/stopwatch_kotlin">
+<a href="https://github.com/Shubhamrawat5/TeleNews">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhamrawat5&repo=TeleNews&theme=dark" />
 </a>
