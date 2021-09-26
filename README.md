@@ -53,3 +53,7 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhamrawat5&repo=TeleNews&theme=dark" />
 </a>
 
+<a href="https://github.com/Shubhamrawat5/apple-playlist-downloader">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhamrawat5&repo=apple-playlist-downloader&theme=dark" />
+</a>
+
