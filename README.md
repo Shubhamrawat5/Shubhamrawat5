@@ -1,6 +1,4 @@
 ## Hey there, Shubham here ! 👋
-I'm a 4th year CSE student.
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubhamrawat5&label=Views&color=blue&style=plastic" alt="Shubhamrawat5" /> </p>
 
