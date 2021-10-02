@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Shubhamrawat5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamrawat5&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamrawat5&theme=dark&exclude_repo=projects-and-projects,open-source-contribution" />
 </a>
 
 ### Top Repo:
