@@ -4,7 +4,6 @@
 
 ### Contacts:
 [![linkedin badge](https://img.shields.io/badge/Shubham-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubham-rawat-63958416a)
-[![twitter badge](https://img.shields.io/badge/@Shubhammrawatt-30302f?style=flat&logo=twitter)](https://twitter.com/Shubhammrawatt)
 [![telegram badge](https://img.shields.io/badge/Krypton-30302f?style=flat&logo=telegram)](https://t.me/kryptonPVX)
 
 <!--
@@ -28,17 +27,20 @@ Here are some ideas to get you started:
 
 ### Skills:
 
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-
+<p float="left">
+<img inline height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+</p>
 
 
 <a href="https://github.com/Shubhamrawat5">
